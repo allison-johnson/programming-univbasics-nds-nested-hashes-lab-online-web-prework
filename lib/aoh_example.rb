@@ -20,8 +20,7 @@ def literal_aoh
             {JOELLE_VD[:name], JOELLE_VD[:occupation]},
             {PAT_M[:name], PAT_M[:occupation]},
             {KATE_G[:name], KATE_G[:occupation]},
-            {BRUCE_G[:name], BRUCE_G[:occupation]}
-          ]
+            {BRUCE_G[:name], BRUCE_G[:occupation]}]
   array
 end
 
